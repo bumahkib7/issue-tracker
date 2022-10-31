@@ -90,6 +90,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/@clr/ui/clr-ui.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -97,5 +98,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "17fda674-e2d8-4175-bf87-2e7dc211f12d"
   }
 }
